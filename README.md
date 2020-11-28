@@ -31,8 +31,8 @@ python app.py
 
 **Final Schema**
 - You should have the following tables: `Zoo`, `Animal`, `Species`, & `Address`
-- `Zoos` and `Address` are one-to-one
-- `Zoos` and `Animals` are one-to-many
+- `Zoo` and `Address` are one-to-one
+- `Zoo` and `Animals` are one-to-many
 - `Species` and `Animals` are one-to-many
 
 **Seeding**
